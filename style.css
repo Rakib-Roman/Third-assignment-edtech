@@ -1,0 +1,28 @@
+/* carousel start */
+.carousel-bg {
+    .carousel-inner {
+        .item {
+            background-color: darkslategrey;
+            background-size: cover;
+            background-position: center;
+            min-height: 360px;
+        }
+    }
+}
+
+.carousel-caption {
+    bottom: 180px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.carousel-caption h5 {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.carousel-caption p {
+    font-size: 20px;
+}
+
+/* carousel end */
