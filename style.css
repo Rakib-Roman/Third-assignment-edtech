@@ -1,13 +1,6 @@
 /* carousel start */
-.carousel-bg {
-    .carousel-inner {
-        .item {
-            background-color: darkslategrey;
-            background-size: cover;
-            background-position: center;
-            min-height: 360px;
-        }
-    }
+.carousel-item img {
+    filter: brightness(50%);
 }
 
 .carousel-caption {
@@ -26,3 +19,6 @@
 }
 
 /* carousel end */
+.btn {
+    text-align: center;
+}
